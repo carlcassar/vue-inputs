@@ -1,0 +1,22 @@
+{
+  "name": "vue-inputs",
+  "version": "0.0.1",
+  "description": "Vue.js inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlcassar/vue-inputs.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Carl Cassar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlcassar/vue-inputs/issues"
+  },
+  "homepage": "https://github.com/carlcassar/vue-inputs#readme"
+}
