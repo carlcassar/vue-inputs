@@ -1,3 +1,7 @@
 .idea
 /docs
+/src
+/node_nodules
+yarn.lock
+webpack.mix.js
 
